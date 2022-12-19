@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:slnt,wght@-10..0,100..900&family=Quicksand:wght@300..700&display=swap');
+
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+    font-variation-settings: 'wght' 500;
+}
+
+strong {
+    font-variation-settings: 'wght' 600;
+}
+
+p {
+    font-variation-settings: 'wght' 300;
+}
+
+h2 {
+    font-family: 'Inter', sans-serif;
+    font-variation-settings: 'wght' 600, 'slnt' -5;
+    text-transform:capitalize;
+
+
+
+}
